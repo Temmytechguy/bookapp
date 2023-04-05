@@ -7,7 +7,7 @@ import java.util.Random;
 /**
  * @author TemmyTechie
  */
-@Thirtendigits
+
 public class IsbnNumberGenerator implements NumberGenerator{
     @Override
     public String generateNumber() {
